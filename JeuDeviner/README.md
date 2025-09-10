@@ -1,6 +1,6 @@
 # 🎲 Jeu de hazard
 
-<img src="captures/imgJeuHazard.png">
+<img src="images/imgJeuHazard.png">
 
 ## Description
 Un jeu de devinette de nombre aléatoire. L’application :

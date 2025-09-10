@@ -1,5 +1,5 @@
 # ⚖️  IMC
-<img src="captures/imgIMC.png">
+<img src="images/imgIMC.png">
 
 ## Description
 Cette application permet de calculer l’**Indice de Masse Corporelle (IMC)**. Elle offre aux utilisateurs la possibilité de :
