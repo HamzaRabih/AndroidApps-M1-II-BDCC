@@ -1,6 +1,7 @@
 # 💶 Conversion App
 
-![imgConversion.png](../captures/imgConversion.png)
+<img src="../captures/imgConversion.png">
+
 ## Description
 Il s’agit de la première application Android développée dans le cadre du module **Développement Mobile**.  
 Elle permet aux utilisateurs de :
